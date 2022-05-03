@@ -1,6 +1,6 @@
 # User story-Ubereat
 ### Who
-- As an user
+- As an user.
 ### What
 - I want to book a hotel room for temporary or planned.
 
